@@ -42,4 +42,6 @@ export const skills = [
     "UI/UX Design",
     "JavaScript",
     "SQL",
+    "Data Science"
+    "Git"
 ];
