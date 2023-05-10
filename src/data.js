@@ -73,7 +73,7 @@ export const skills = [
     "Python",
     "React",
     "HTML",
-    "Machine Learning",
+    "TensorFlow",
     "UI/UX Design",
     "JavaScript",
     "SQL",

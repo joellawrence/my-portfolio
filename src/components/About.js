@@ -9,19 +9,43 @@ export default function About() {
                         Hi, I'm Joel.
                         <br className="hidden lg:inline-block" /> Let's work together.
                     </h1>
-                    <p className="mb-8 leading-relaxed">
-                        As a recent Computer Science graduate, I bring a strong technical foundation and a passion for innovation to the table. With hands-on experience in programming, database management, and more, I am well-equipped to begin tackling technical challenges.
+                    <p className="mb-4 leading-relaxed">
+                        As a recent 2023 Computer Science graduate at MacEwan University, I bring a strong technical foundation and a passion for innovation to the table.
                     </p>
                     <div className="flex justify-center">
                         <a
                             href="#contact"
-                            className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+                            className="ml-4 inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg text-center">
                             Work With Me
                         </a>
                         <a
                             href="#projects"
-                            className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+                            className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg text-center">
                             See My Past Work
+                        </a>
+                        <a
+                            href="https://www.linkedin.com/in/joel-micah-lawrence/"
+                            target="blank_"
+                            className="ml-5 inline-flex"
+                            title="LinkedIn">
+                            <img
+                                alt="linkedin"
+                                src="./linkedin.svg"
+                                width="25"
+                                height="25"
+                            />
+                        </a>
+                        <a
+                            href="https://github.com/joellawrence"
+                            target="blank_"
+                            className="ml-4 inline-flex"
+                            title="GitHub">
+                            <img
+                                alt="github"
+                                src="./github.svg"
+                                width="26"
+                                height="26"
+                            />
                         </a>
                     </div>
                 </div>
