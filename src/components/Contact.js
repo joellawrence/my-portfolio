@@ -70,10 +70,41 @@ export default function Contact() {
                     <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
                         Hire Me
                     </h2>
-                    <p className="leading-relaxed mb-5">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-                        suscipit officia aspernatur veritatis. Asperiores, aliquid?
+                    <p className="leading-relaxed mb-4">
+                        Get to know me more by contacting me! Let's have a conversation.
                     </p>
+                    <div className="flex justify-left mb-4">
+                        <a
+                            href="./Joel-Lawrence-Resume-2023.pdf"
+                            target="_blank"
+                            className="ml-1 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg text-center">
+                            My Resume
+                        </a>
+                        <a
+                            href="https://www.linkedin.com/in/joel-micah-lawrence/"
+                            target="_blank"
+                            className="ml-4 inline-flex"
+                            title="LinkedIn">
+                            <img
+                                alt="linkedin"
+                                src="./linkedin.svg"
+                                width="25"
+                                height="25"
+                            />
+                        </a>
+                        <a
+                            href="https://github.com/joellawrence"
+                            target="_blank"
+                            className="ml-4 inline-flex"
+                            title="GitHub">
+                            <img
+                                alt="github"
+                                src="./github.svg"
+                                width="26"
+                                height="26"
+                            />
+                        </a>
+                    </div>
                     <div className="relative mb-4">
                         <label htmlFor="name" className="leading-7 text-sm text-gray-400">
                             Name

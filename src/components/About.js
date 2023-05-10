@@ -23,30 +23,6 @@ export default function About() {
                             className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg text-center">
                             See My Past Work
                         </a>
-                        <a
-                            href="https://www.linkedin.com/in/joel-micah-lawrence/"
-                            target="blank_"
-                            className="ml-5 inline-flex"
-                            title="LinkedIn">
-                            <img
-                                alt="linkedin"
-                                src="./linkedin.svg"
-                                width="25"
-                                height="25"
-                            />
-                        </a>
-                        <a
-                            href="https://github.com/joellawrence"
-                            target="blank_"
-                            className="ml-4 inline-flex"
-                            title="GitHub">
-                            <img
-                                alt="github"
-                                src="./github.svg"
-                                width="26"
-                                height="26"
-                            />
-                        </a>
                     </div>
                 </div>
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
