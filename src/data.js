@@ -5,7 +5,7 @@ export const projects = [
         description:
             "Worked in a team to analyze electrical power usage data to forecast power consumption. We researched and applied machine learning methods on collected time series data.",
         image: "./capstone.gif",
-        link: ".",
+        link: "./GGT_Capstone.pdf",
     },
     {
         title: "Heavy Hitters and Breadwinners",
@@ -16,20 +16,20 @@ export const projects = [
         link: "./Heavy Hitters & Breadwinners.pdf",
     },
     {
-        title: "DevChat",
-        subtitle: "React and Firebase",
+        title: "Edmonton Property Assessment Application",
+        subtitle: "Object-Oriented Programming Final Assignment",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-3.gif",
-        link: "https://reactbootcamp.com",
+            "An application to assess Edmonton properties using object-oriented programming design patterns with Java and JavaFX WebView. Map feature implemented with Google Maps JS API.",
+        image: "./property-app.gif",
+        link: "https://github.com/joellawrence/305Project",
     },
     {
-        title: "Epic Todo App",
-        subtitle: "React Hooks",
+        title: "Shift Scheduler App",
+        subtitle: "Android Application",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-4.gif",
-        link: "https://reactbootcamp.com",
+            "A shift scheduling Android application created using the Scrum framework. We constructed SQLite databases & queries with front-end elements developed in Android Studio.",
+        image: "./shift-app.gif",
+        link: "https://www.youtube.com/watch?v=FJE25Y5dE-w",
     },
 ];
 
