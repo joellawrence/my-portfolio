@@ -9,8 +9,9 @@ export default function About() {
                         Hi, I'm Joel.
                         <br className="hidden lg:inline-block" /> Let's work together.
                     </h1>
-                    <p className="mb-4 leading-relaxed">
-                        As a recent 2023 Computer Science graduate at MacEwan University, I bring a strong technical foundation and a passion for innovation to the table.
+                    <p className="mb-6 leading-relaxed">
+                        As a 2023 Computer Science graduate at MacEwan University, I bring a strong technical foundation and a passion for innovation to the table.
+                        I am excited to bring my skills and enthusiasm to a team that shares my dedication to excellency through collaboration.
                     </p>
                     <div className="flex justify-center">
                         <a
@@ -28,8 +29,8 @@ export default function About() {
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
                     <img
                         className="object-cover object-center rounded"
-                        alt="hero"
-                        src="./coding.svg"
+                        alt="app developer"
+                        src="./app-developer-svgrepo-com.svg"
                     />
                 </div>
             </div>

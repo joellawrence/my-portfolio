@@ -73,10 +73,10 @@ export const skills = [
     "Python",
     "React",
     "HTML",
-    "TensorFlow",
     "UI/UX Design",
     "JavaScript",
     "SQL",
-    "Data Science",
     "Git",
+    "Data Science",
+    "TensorFlow",
 ];

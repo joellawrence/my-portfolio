@@ -12,7 +12,7 @@ export default function Projects() {
                         Academic Projects
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Projects I have completed during my time at MacEwan University.
+                        Projects I have submitted for course assignments during my time at MacEwan University.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
