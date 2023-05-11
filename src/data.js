@@ -1,19 +1,19 @@
 export const projects = [
     {
-        title: "React Reserve",
-        subtitle: "MERN Stack",
+        title: "Household Power Consumption Forecasting",
+        subtitle: "Computer Science Capstone Project",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-1.gif",
-        link: "https://reactbootcamp.com",
+            "Worked in a team to analyze electrical power usage data to forecast power consumption. We researched and applied machine learning methods on collected time series data.",
+        image: "./capstone.gif",
+        link: ".",
     },
     {
-        title: "React Tracks",
-        subtitle: "React and Python",
+        title: "Heavy Hitters and Breadwinners",
+        subtitle: "A Statistical Analysis on MLB Hitter Salaries",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-2.gif",
-        link: "https://reactbootcamp.com",
+            "I worked with a classmate to predict Major League Baseball hitter salaries using applied regression analysis methods, such as AIC, BIC, and LASSO for model selection.",
+        image: "./hitters.gif",
+        link: "./Heavy Hitters & Breadwinners.pdf",
     },
     {
         title: "DevChat",
