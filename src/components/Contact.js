@@ -73,7 +73,7 @@ export default function Contact() {
                         Hire Me
                     </h2>
                     <p className="leading-relaxed mb-4">
-                        Get to know me more by contacting me! Let's have a conversation.
+                        I am eager to apply the skills I have gained and begin a life-long career of learning as technology evolves. Get to know me more by contacting me! Let's have a conversation.
                     </p>
                     <div className="flex justify-left mb-4">
                         <a

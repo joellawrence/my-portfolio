@@ -3,7 +3,7 @@ export const projects = [
         title: "Household Power Consumption Forecasting",
         subtitle: "Computer Science Capstone Project",
         description:
-            "Worked in a team to analyze electrical power usage data to forecast power consumption. We researched and applied machine learning methods on collected time series data.",
+            "I Worked in a team to analyze electrical power usage data to forecast power consumption. We researched and applied machine learning methods on collected time series data.",
         image: "./capstone.gif",
         link: "./GGT_Capstone.pdf",
     },
@@ -19,7 +19,7 @@ export const projects = [
         title: "Edmonton Property Assessment Application",
         subtitle: "Object-Oriented Programming Final Assignment",
         description:
-            "An application to assess Edmonton properties using object-oriented programming design patterns with Java and JavaFX WebView. Map feature implemented with Google Maps JS API.",
+            "This is an application to assess Edmonton properties using object-oriented programming design patterns with Java and JavaFX WebView. The map feature was implemented with Google Maps JS API.",
         image: "./property-app.gif",
         link: "https://github.com/joellawrence/305Project",
     },
@@ -27,7 +27,7 @@ export const projects = [
         title: "Shift Scheduler App",
         subtitle: "Android Application",
         description:
-            "A shift scheduling Android application created using the Scrum framework. We constructed SQLite databases & queries with front-end elements developed in Android Studio.",
+            "This is a shift scheduling Android application created using the Scrum framework. We constructed SQLite databases & queries with front-end elements developed in Android Studio.",
         image: "./shift-app.gif",
         link: "https://www.youtube.com/watch?v=FJE25Y5dE-w",
     },

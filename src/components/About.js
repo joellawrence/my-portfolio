@@ -9,9 +9,12 @@ export default function About() {
                         Hi, I'm Joel.
                         <br className="hidden lg:inline-block" /> Let's work together.
                     </h1>
-                    <p className="mb-6 leading-relaxed">
-                        As a 2023 Computer Science graduate at MacEwan University, I bring a strong technical foundation and a passion for innovation to the table.
-                        I am excited to bring my skills and enthusiasm to a team that shares my dedication to excellency through collaboration.
+                    <p className="mb-1 leading-relaxed">
+                        As a 2023 Computer Science graduate at MacEwan University, I have a strong foundation in software development and statistical analysis.
+                    </p>
+                    <p className="mb-6 leading-relxaed">
+                        I spend a great amount of my free time refining my knowledge in the latest advancements in the field.
+                        I have a passion for <strong>graphic design</strong> and <strong>front-end development</strong> that I strive to integrate into my future work.
                     </p>
                     <div className="flex justify-center">
                         <a
