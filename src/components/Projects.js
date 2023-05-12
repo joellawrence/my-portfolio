@@ -12,7 +12,8 @@ export default function Projects() {
                         Projects
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Projects I have submitted for course assignments during my time at MacEwan University.
+                        These are some highlights of the assignments I have submitted for computer science and statistics courses during my time at MacEwan University.
+                        They show off my analytical and programming skills, and my flexibility to excel in projects of varying topics and expertise.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">

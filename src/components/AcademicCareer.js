@@ -12,7 +12,7 @@ export default function AcademicCareer() {
                 <div className="lg:w-2/3 mx-auto leading-relaxed text-base">
                     <p className="mb-4">
                         I achieved a <strong>Bachelor of Science</strong> degree with a major in <strong>Computer Science</strong> and a minor in
-                        <strong>Statistics</strong>.
+                        <strong> Statistics</strong>.
                     </p>
                     <p className="mb-4">
                         I was sought out by one of my statistics professors to be a teacher's assistant/marker for a senior-level

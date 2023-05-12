@@ -9,7 +9,7 @@ export default function About() {
                         Hi, I'm Joel.
                         <br className="hidden lg:inline-block" /> Let's work together.
                     </h1>
-                    <p className="mb-1 leading-relaxed">
+                    <p className="mb-2 leading-relaxed">
                         As a 2023 Computer Science graduate at MacEwan University, I have a strong foundation in software development and statistical analysis.
                     </p>
                     <p className="mb-6 leading-relxaed">
